@@ -9,7 +9,7 @@ class Book
   
   attr_accessor :author 
   
-  attr_accessor :author
+  attr_accessor :page_count
   
   
 
