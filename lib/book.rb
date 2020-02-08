@@ -12,6 +12,8 @@ class Book
   attr_accessor :genre
   
   def turn_page
+    puts "Flipping the page...wow, ou read fast!"
+  end
   
 end
   
