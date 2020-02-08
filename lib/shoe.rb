@@ -8,5 +8,6 @@ class Shoe
   
   attr_accessor :color, :size, :material, :condition
   
-  def 
+  def cobble 
+    puts
   
