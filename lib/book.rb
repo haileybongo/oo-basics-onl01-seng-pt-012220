@@ -7,4 +7,5 @@ class Book
     puts @title
   end
   
+  attr_accessor :author 
 
